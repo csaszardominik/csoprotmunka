@@ -1,4 +1,0 @@
-# csoprotmunka
-# szia
-# bmeg
-# Hali
